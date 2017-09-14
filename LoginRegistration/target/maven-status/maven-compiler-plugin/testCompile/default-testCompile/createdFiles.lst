@@ -1,0 +1,4 @@
+com\sathish\model\TestEmployeeRegistration.class
+com\sathish\dao\TestLoginDAO.class
+com\sathish\util\TestConnectionUtil.class
+com\sathish\dao\TestEmployeeDAO.class
